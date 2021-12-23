@@ -6,7 +6,7 @@
 
 <a href="https://reactjs.org" target="_blank"><img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></a>
 <a href="https://redux.js.org" target="_blank"><img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" /></a>
-<a href="https://styled-components.com" target="_blank"><img align="left" alt="styled-components" width="26px" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" /></a>
+<a href="https://styled-components.com" target="_blank"><img align="left" alt="styled-components" width="26px" src="https://styled-components.com/logo.png" /></a>
 <a href="https://www.w3.org/html"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 <a href="https://www.w3schools.com/css" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
 <a href="https://sass-lang.com" target="_blank"><img align="left" alt="SaSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /></a>
