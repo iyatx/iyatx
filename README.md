@@ -2,6 +2,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iyatx&theme=algolia&layout=compact&langs_count=10&hide=Jupyter%20Notebook&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) -->
 
 
+### Languages and Tools:
+
 <a href="https://reactjs.org" target="_blank"><img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></a>
 <a href="https://redux.js.org" target="_blank"><img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" /></a>
 <a href="https://www.w3.org/html"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
