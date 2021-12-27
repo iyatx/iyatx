@@ -16,7 +16,7 @@
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="TypeScript" width="26px" src="https://miro.medium.com/max/816/1*TpbxEQy4ckB-g31PwUQPlg.png" /></a>
 <a href="https://webpack.js.org" target="_blank"><img align="left" alt="Webpack" width="26px" src="https://camo.githubusercontent.com/b0573f87b0786eda63c76f2a9a1358e7a653783c25c03c6c908a00b70c713d78/68747470733a2f2f7765627061636b2e6a732e6f72672f6173736574732f69636f6e2d7371756172652d6269672e737667" /></a>
 <a href="https://tailwindcss.com/" target="_blank"><img align="left" alt="Tailwind UI" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" /></a>
-
+<br />
 
 
 ![Azizbeaa's github stats](https://github-readme-stats.vercel.app/api?username=iyatx&show_icons=true&theme=radical)
