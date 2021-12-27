@@ -1,7 +1,7 @@
 ## Frontend React.js Developer
 
 - 💪 I like to write code
-- 🎉 I love listening to music
+- 🎵 I love listening to music
 - 🥅 I am constantly learning new things
 
 ### Languages and Tools:
