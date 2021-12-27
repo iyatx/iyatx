@@ -1,4 +1,4 @@
-## I'm a Frontend Developer
+## Frontend React.js Developer
 
 - 💪 I like to write code
 - 🎉 I love listening to music
