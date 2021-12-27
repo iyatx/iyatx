@@ -1,3 +1,7 @@
+### Or, I'm Aziz
+
+![](https://komarev.com/ghpvc/?username=0xLDev)
+
 ## Frontend React.js Developer
 
 - 💪 I like to write code
