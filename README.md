@@ -2,7 +2,7 @@
 
 - 💪 I like to write code
 - 🎵 I love listening to music
-- 🥅 I am constantly learning new things
+- 📕 I am constantly learning new things
 
 ### Languages and Tools:
 
