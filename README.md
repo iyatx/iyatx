@@ -1,4 +1,4 @@
-### Or, I'm Aziz
+### Hi there 👋, I'm Vitaly
 
 ![](https://komarev.com/ghpvc/?username=0xLDev)
 
