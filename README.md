@@ -4,10 +4,6 @@
 - 🎉 I love listening to music
 - 🥅 I am constantly learning new things
 
-![Azizbeaa's github stats](https://github-readme-stats.vercel.app/api?username=iyatx&show_icons=true&theme=radical)
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iyatx&theme=algolia&layout=compact&langs_count=10&hide=Jupyter%20Notebook&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) -->
-
-
 ### Languages and Tools:
 
 <a href="https://reactjs.org" target="_blank"><img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></a>
@@ -21,3 +17,7 @@
 <a href="https://webpack.js.org" target="_blank"><img align="left" alt="Webpack" width="26px" src="https://camo.githubusercontent.com/b0573f87b0786eda63c76f2a9a1358e7a653783c25c03c6c908a00b70c713d78/68747470733a2f2f7765627061636b2e6a732e6f72672f6173736574732f69636f6e2d7371756172652d6269672e737667" /></a>
 <a href="https://tailwindcss.com/" target="_blank"><img align="left" alt="Tailwind UI" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" /></a>
 
+
+
+![Azizbeaa's github stats](https://github-readme-stats.vercel.app/api?username=iyatx&show_icons=true&theme=radical)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iyatx&theme=algolia&layout=compact&langs_count=10&hide=Jupyter%20Notebook&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) -->
