@@ -2,4 +2,3 @@
 
 [![Github profile_trophy](https://github-profile-trophy.vercel.app/?username=iyatx&theme=dracula&row=2&column=4&no-bg=true&margin-h=15&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=iyatx.iyatx) 
