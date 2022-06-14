@@ -1,27 +1,5 @@
-### Hi there 👋, I'm Aziz
+[![Github stats](https://github-readme-stats.vercel.app/api?username=iyatx&hide_border=true&count_private=true&show_icons=true&theme=vision-friendly-dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iyatx&hide=smarty,java,actionscript&hide_border=true&theme=vision-friendly-dark&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=iyatx)
+[![Github profile_trophy](https://github-profile-trophy.vercel.app/?username=iyatx&theme=dracula&row=2&column=4&no-bg=true&margin-h=15&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-## Frontend React.js Developer
-
-- 💪 I like to write code
-- 🎵 I love listening to music
-- 📕 I am constantly learning new things
-
-### Languages and Tools:
-
-<a href="https://reactjs.org" target="_blank"><img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></a>
-<a href="https://redux.js.org" target="_blank"><img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" /></a>
-<a href="https://styled-components.com" target="_blank"><img align="left" alt="styled-components" width="26px" src="https://styled-components.com/logo.png" /></a>
-<a href="https://www.w3.org/html"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
-<a href="https://www.w3schools.com/css" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
-<a href="https://sass-lang.com" target="_blank"><img align="left" alt="SaSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="TypeScript" width="26px" src="https://miro.medium.com/max/816/1*TpbxEQy4ckB-g31PwUQPlg.png" /></a>
-<a href="https://webpack.js.org" target="_blank"><img align="left" alt="Webpack" width="26px" src="https://camo.githubusercontent.com/b0573f87b0786eda63c76f2a9a1358e7a653783c25c03c6c908a00b70c713d78/68747470733a2f2f7765627061636b2e6a732e6f72672f6173736574732f69636f6e2d7371756172652d6269672e737667" /></a>
-<a href="https://tailwindcss.com/" target="_blank"><img align="left" alt="Tailwind UI" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" /></a>
-<br /><br />
-
-
-![Azizbeaa's github stats](https://github-readme-stats.vercel.app/api?username=iyatx&show_icons=true&theme=radical)
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iyatx&theme=algolia&layout=compact&langs_count=10&hide=Jupyter%20Notebook&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) -->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=iyatx.iyatx) 
